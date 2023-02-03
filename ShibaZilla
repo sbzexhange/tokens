@@ -1,0 +1,11 @@
+{
+ "name": "ShibaZilla",
+ "website": "https://shibazilla.finance/",
+ "description": " SBZ EXCHANGE belongs to the US team, creating crypto currency applications including Exchange, NFT, payment and P2P.",
+ "explorer": "https://bscscan.com/token/0x6b6689f49336bf8d2ce938c231ad022385c8aa54",
+ "type": "BEP20",
+ "symbol": "ShibaZilla",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x6b6689f49336bf8d2ce938c231ad022385c8aa54"
+}
